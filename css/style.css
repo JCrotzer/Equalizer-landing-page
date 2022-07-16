@@ -288,9 +288,17 @@ p span {
         background-size: 25% auto;
     }
 
+    h1 {
+        font-size: 63px;
+    }
+
     .middle {
         margin-left: 400px;
         margin-top: 640px;
+    }
+
+    .top-content {
+        width: 700px;
     }
 
     .top-ad {
