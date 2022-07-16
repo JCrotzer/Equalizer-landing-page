@@ -302,15 +302,21 @@ p span {
         margin-top: 150px;
     }
 
+    h2 {
+        margin-top: 40px;
+    }
+
     .top-content p {
         font-size: 18px;
         line-height: 34px;
         width: 750px;
+        margin-top: 30px;
     }
 
     .middle {
-        margin-left: 400px;
-        margin-top: 775px;
+        margin-left: 450px;
+        margin-top: 800px;
+        height: 550px;
     }
 
     .top {
@@ -320,8 +326,12 @@ p span {
         align-items: flex-start;
     }
 
+    .ios {
+        margin-top: 30px;
+    }
+
     .top-ad {
-        width: 800px;
+        width: 1100px;
         height: 500px;
         background: url('../assets/bg-pattern-2.svg') no-repeat;
         background-position: top -40px left 200px;
@@ -329,11 +339,18 @@ p span {
         background-color: #191826;
     }
 
+    .premium {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
     .illustration {
-        margin-right: 500px;
+        margin-right: 750px;
         margin-top: -100px;
         position: relative;
-        width: 250px; 
+        width: 250px;
+        height: 500px; 
     }
 
     .social-media {
