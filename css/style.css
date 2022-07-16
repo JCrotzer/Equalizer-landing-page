@@ -180,7 +180,7 @@ p span {
 } 
 
 .bottom-content {
-    margin: 50px 30px;
+    margin: 50px 0;
 }
 
 .email {
@@ -322,7 +322,7 @@ p span {
 
     .top-ad {
         width: 800px;
-        height: 450px;
+        height: 500px;
         background: url('../assets/bg-pattern-2.svg') no-repeat;
         background-position: top -40px left 200px;
         background-size: 30%;
@@ -334,5 +334,11 @@ p span {
         margin-top: -100px;
         position: relative;
         width: 250px; 
+    }
+
+    .social-media {
+        margin-left: 570px;
+        margin-top: -230px;
+        display: flex;
     }
 }
