@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/JCrotzer/Equalizer-landing-page.git 
+- Live Site URL: https://jcrotzer.github.io/Equalizer-landing-page/ 
 
 ## My process
 Built out page using html, css and flexbox. I started with html and placed everything in divs and then designed the page. Started with mobile and then worked to tablet and desktop. 
