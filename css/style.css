@@ -314,9 +314,10 @@ p span {
     }
 
     .middle {
-        margin-left: 450px;
-        margin-top: 800px;
-        height: 550px;
+        margin-left: 490px;
+        margin-top: 900px;
+        height: 530px;
+        width: 400px;
     }
 
     .top {
@@ -330,12 +331,16 @@ p span {
         margin-top: 30px;
     }
 
+    .equalizer {
+        margin-left: 80px;
+    }
+
     .top-ad {
-        width: 1100px;
-        height: 650px;
+        width: 1000px;
+        height: 550px;
         background: url('../assets/bg-pattern-2.svg') no-repeat;
-        background-position: top -40px left 200px;
-        background-size: 30%;
+        background-position: top -30px left 300px;
+        background-size: 25%;
         background-color: #191826;
         margin-top: 100px;
     }
@@ -346,12 +351,16 @@ p span {
         justify-content: space-between;
     }
 
+    .price {
+        margin-top: 30px;
+    }
+
     .illustration {
-        margin-right: 750px;
-        margin-top: -100px;
+        margin-right: 520px;
+        margin-top: -170px;
         position: relative;
         width: 250px;
-        height: 500px; 
+        height: 550px; 
     }
 
     .bottom {
@@ -359,19 +368,20 @@ p span {
         flex-direction: row;
         justify-content: space-between;
         align-items: flex-start;
-        margin-top: 100px;
+        margin-top: 50px;
     }
 
     .bottom-content {
         display: flex;
         flex-direction: row;
-        justify-content: space-between;
+        justify-content: space-evenly;
         align-items: flex-start;
     }
 
     .social-media {
-        margin-left: 350px;
-        margin-top: -230px;
+        margin-left: 200px;
+        margin-top: 150px;
         display: flex;
     }
+
 }
