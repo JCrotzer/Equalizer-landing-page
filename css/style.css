@@ -335,7 +335,7 @@ p span {
         margin-top: 30px;
     }
 
-    .equalizer2 {
+    .contact {
         margin-left: 80px;
     }
 
@@ -378,7 +378,7 @@ p span {
     .bottom-content {
         display: flex;
         flex-direction: row;
-        justify-content: space-evenly;
+        justify-content: space-between;
         align-items: flex-start;
     }
 
